@@ -1,0 +1,30 @@
+.layout-container {
+    min-width: 0;
+}
+
+.layout-container-content {
+    min-height: 100vh;
+}
+
+.layout-header {
+    padding: 20px;
+    color: #fff;
+    background-color: #1976d2;
+}
+
+.layout-sidebar {
+    padding: 20px;
+    width: 300px;
+    background-color: #eee;
+}
+
+.layout-main {
+    padding: 20px;
+    display: block;
+    background-color: #f5f5f5;
+}
+
+.layout-footer {
+    padding: 20px;
+    background-color: #e0e0e0;
+}
