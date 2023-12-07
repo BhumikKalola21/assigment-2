@@ -18,8 +18,8 @@ function isAuthenticated()
 
 // please add key and secret
 $credentials = [
-	'key' => 'AKIAXE5LPYNIN4QQ5DOE',
-	'secret' => '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',
+	'key' => 'add-key-here',
+	'secret' => 'add-secret-here',
 ];
 
 $s3 = new S3Client([
